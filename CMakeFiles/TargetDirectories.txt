@@ -1,0 +1,5 @@
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeFiles/STM32F051K8T7_DP.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeFiles/edit_cache.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeFiles/rebuild_cache.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
