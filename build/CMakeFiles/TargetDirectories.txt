@@ -1,0 +1,4 @@
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/build/CMakeFiles/STM32F051K8T7_DP.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/build/cmake/stm32cubemx/CMakeFiles/ALL_BUILD.dir

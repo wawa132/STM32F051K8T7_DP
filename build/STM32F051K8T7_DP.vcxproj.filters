@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\gpio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\adc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\dma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\i2c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\tim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\usart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\stm32f0xx_it.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\stm32f0xx_hal_msp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_gpio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_dma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_cortex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_exti.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\system_stm32f0xx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\sysmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\Core\Src\syscalls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\startup_stm32f051x8.s" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ACF99C83-7EAD-3AD6-B295-862FD54D51C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

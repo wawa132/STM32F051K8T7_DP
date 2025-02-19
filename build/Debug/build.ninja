@@ -52,258 +52,322 @@ build cmake_object_order_depends_target_STM32F051K8T7_DP: phony || CMakeFiles/ST
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/main.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/main.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\main.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/gpio.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/gpio.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\gpio.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/adc.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/adc.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\adc.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/dma.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/dma.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\dma.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/i2c.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/i2c.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\i2c.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/tim.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/tim.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\tim.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/usart.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/usart.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\usart.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/stm32f0xx_it.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/stm32f0xx_it.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\stm32f0xx_it.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/stm32f0xx_hal_msp.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/stm32f0xx_hal_msp.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\stm32f0xx_hal_msp.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_gpio.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_dma.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_cortex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_exti.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Drivers\STM32F0xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/system_stm32f0xx.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/system_stm32f0xx.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\system_stm32f0xx.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/sysmem.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/sysmem.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\sysmem.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/syscalls.c.obj: C_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/Core/Src/syscalls.c || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src\syscalls.c.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 build CMakeFiles/STM32F051K8T7_DP.dir/startup_stm32f051x8.s.obj: ASM_COMPILER__STM32F051K8T7_DP_unscanned_Debug C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/startup_stm32f051x8.s || cmake_object_order_depends_target_STM32F051K8T7_DP
   DEFINES = -DDEBUG -DSTM32F051x8 -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\STM32F051K8T7_DP.dir\startup_stm32f051x8.s.obj.d
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -x assembler-with-cpp -MMD -MP -g
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -x assembler-with-cpp -MMD -MP -g
   INCLUDES = -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Core/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   OBJECT_FILE_DIR = CMakeFiles\STM32F051K8T7_DP.dir
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 
 # =============================================================================
@@ -314,19 +378,20 @@ build CMakeFiles/STM32F051K8T7_DP.dir/startup_stm32f051x8.s.obj: ASM_COMPILER__S
 # Link the executable STM32F051K8T7_DP.elf
 
 build STM32F051K8T7_DP.elf: C_EXECUTABLE_LINKER__STM32F051K8T7_DP_Debug CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/main.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/gpio.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/adc.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/dma.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/i2c.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/tim.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/usart.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/stm32f0xx_it.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/stm32f0xx_hal_msp.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/system_stm32f0xx.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/sysmem.c.obj CMakeFiles/STM32F051K8T7_DP.dir/Core/Src/syscalls.c.obj CMakeFiles/STM32F051K8T7_DP.dir/startup_stm32f051x8.s.obj
-  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g
+  FLAGS = -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g
   OBJECT_DIR = CMakeFiles\STM32F051K8T7_DP.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\STM32F051K8T7_DP.dir\
   TARGET_FILE = STM32F051K8T7_DP.elf
-  TARGET_PDB = STM32F051K8T7_DP.elf.dbg
+  TARGET_PDB = STM32F051K8T7_DP.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug && C:\ST\STM32CubeCLT_1.15.1\CMake\bin\cmake-gui.exe -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug && C:\ST\STM32CubeCLT_1.17.0\CMake\bin\cmake-gui.exe -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -338,7 +403,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug && C:\ST\STM32CubeCLT_1.15.1\CMake\bin\cmake.exe --regenerate-during-build -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug && C:\ST\STM32CubeCLT_1.17.0\CMake\bin\cmake.exe --regenerate-during-build -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -355,7 +420,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build cmake/stm32cubemx/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug\cmake\stm32cubemx && C:\ST\STM32CubeCLT_1.15.1\CMake\bin\cmake-gui.exe -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug\cmake\stm32cubemx && C:\ST\STM32CubeCLT_1.17.0\CMake\bin\cmake-gui.exe -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -367,7 +432,7 @@ build cmake/stm32cubemx/edit_cache: phony cmake/stm32cubemx/CMakeFiles/edit_cach
 # Utility command for rebuild_cache
 
 build cmake/stm32cubemx/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug\cmake\stm32cubemx && C:\ST\STM32CubeCLT_1.15.1\CMake\bin\cmake.exe --regenerate-during-build -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug\cmake\stm32cubemx && C:\ST\STM32CubeCLT_1.17.0\CMake\bin\cmake.exe --regenerate-during-build -SC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP -BC:\Users\GEKWORk\Documents\Stm32CubeMX\STM32F051K8T7_DP\build\Debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -403,14 +468,14 @@ build cmake/stm32cubemx/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeASMInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU-ASM.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Platform/Generic.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeLists.txt C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/gcc-arm-none-eabi.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeASMCompiler.cmake CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeASMCompiler.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeASMInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeNinjaFindMake.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeSystem.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeTestASMCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-ASM.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Platform/Generic.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeLists.txt C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/gcc-arm-none-eabi.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeASMCompiler.cmake CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeASMInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU-ASM.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28/Modules/Platform/Generic.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeLists.txt C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/gcc-arm-none-eabi.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeASMCompiler.cmake CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
+build C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeASMCompiler.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeASMInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeNinjaFindMake.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeSystem.cmake.in C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeTestASMCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-ASM.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/Platform/Generic.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/CMakeLists.txt C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/gcc-arm-none-eabi.cmake C$:/Users/GEKWORk/Documents/Stm32CubeMX/STM32F051K8T7_DP/cmake/stm32cubemx/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeASMCompiler.cmake CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
 
 
 #############################################
